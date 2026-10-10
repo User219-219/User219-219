@@ -48,7 +48,8 @@ Technology enthusiast, computer science student, currently debugging life with n
 ### 💭 Thoughts
 
 <p align="center">
-  <em>"Computer programs are powerful bombs and what you feed them can affect you in a powerful way."</em>
+  <em>"Computer programs are powerful bombs and what you feed them can affect you in a powerful way."</em><br><br>
+  <em>"Now I have become death, the destroyer of worlds."</em>
 </p>
 <div align="right"><b><span style="color:#2f81f7"><i>DERRICK_PRAISE</i></span></b></div>
 
