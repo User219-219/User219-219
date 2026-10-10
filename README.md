@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Computer Science student passionate about coding, problem-solving, and building useful things. Currently learning, experimenting, and documenting my journey one project at a time. 🛫
+Technology enthusiast, computer science student, currently debugging life with no stack trace available. Powered by curiosity, caffeine, a pretty bad sleeping schedule, and way too many browser tabs.
 
 🔭 &nbsp;I'm currently working on **Building my C programming foundation and beginner projects**  
 🌱 &nbsp;I'm currently learning **C Programming**  
