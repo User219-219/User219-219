@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/User219-219">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20User219-219%20%F0%9F%92%BB%20Computer%20science%20student%2FDebugging%20my%20life%20choices%20shortly%20one%20keyboard%20shortcut%20after%20another." alt="👋 Hi, I&#39;m User219-219 💻 Computer science student/Debugging my life choices shortly one keyboard shortcut after another." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=28&height=70&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20User219-219%20%F0%9F%92%BB%20%2A%2AComputer%20science%20student%2FDebugging%20my%20life%20choices%20shortly%20one%20keyboard%20shortcut%20after%20another.%2A%2A" alt="👋 Hi, I'm User219-219 💻 Computer science student/Debugging my life choices shortly one keyboard shortcut after another." />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Technology enthusiast, computer science student, currently debugging life with n
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.instagram.com/askeladd_praise219" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="url?id=29" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:derrickallan14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
