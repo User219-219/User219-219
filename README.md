@@ -31,7 +31,7 @@ Technology enthusiast, computer science student, currently debugging life with n
 
 <p align="left">
   <a href="https://instagram.com/askeladd_praise219"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:derrickallan14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="url?id=29"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -47,10 +47,10 @@ Technology enthusiast, computer science student, currently debugging life with n
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=User219-219&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Thought
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <em>"Computer programs are powerful bombs and what you feed them can affect you in a powerful way."</em>
 </p>
 
 ---
