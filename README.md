@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="url?id=2">
+  <a href="https://github.com/User219-219">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20User219-219%20%F0%9F%92%BB%20Computer%20Science%20Student%20%7C%20C%20Programmer%20%7C%20Future%20Software%20Engineer%20%F0%9F%9A%80%20Building%2C%20learning%20%26%20documenting%20my%20journey%20one%20project%20at%20a%20time." alt="👋 Hi, I&#39;m User219-219 💻 Computer Science Student | C Programmer | Future Software Engineer 🚀 Building, learning &amp; documenting my journey one project at a time." />
   </a>
 </p>
@@ -12,10 +12,8 @@
 
 Technology enthusiast, computer science student, currently debugging life with no stack trace available. Powered by curiosity, caffeine, a pretty bad sleeping schedule, and way too many browser tabs.
 
-🔭 &nbsp;I'm currently working on **Building my C programming foundation and beginner projects**  
-🌱 &nbsp;I'm currently learning **C Programming**  
-👯 &nbsp;I'm looking to collaborate on **Beginner-friendly coding and open-source projects**  
-🤔 &nbsp;I'm looking for help with **Writing cleaner code and becoming a better problem solver**  
+🔭 &nbsp;Always on the go with a new project  
+👯 &nbsp;Open to coding team-ups and tech brainstorming  
 💬 &nbsp;Ask me about **C programming, my CS journey, Github, and beginner coding projects**  
 😄 &nbsp;Pronouns: **he/him**
 
@@ -31,7 +29,7 @@ Technology enthusiast, computer science student, currently debugging life with n
 
 <p align="left">
   <a href="https://instagram.com/askeladd_praise219"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/User219-219/User219-219/blob/main/url?id=29"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:derrickallan14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -50,8 +48,7 @@ Technology enthusiast, computer science student, currently debugging life with n
 ### 💭 Thoughts
 
 <p align="center">
-  <em>"Computer programs are powerful bombs and what you feed them can affect you in a powerful way."</em><br><br>
-  <em>"Now I have become death, the destroyer of worlds."</em>
+  <em>"Computer programs are powerful bombs and what you feed them can affect you in a powerful way."</em>
 </p>
 <div align="right"><b><span style="color:#2f81f7"><i>DERRICK_PRAISE</i></span></b></div>
 
