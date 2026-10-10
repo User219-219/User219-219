@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/User219-219/User219-219">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=24&height=70&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20User219-219%20%F0%9F%92%BB%20%3Cstrong%3E%3Cubic%3E%3C/cubic%3E%3Cu%3EComputer%20science%20student%2FDebugging%20my%20life%20choices%20shortly%20one%20keyboard%20shortcut%20after%20another.%3C%2Fu%3E%3C/strong%3E" alt="👋 Hi, I'm User219-219 💻 Computer science student/Debugging my life choices shortly one keyboard shortcut after another." />
+  <a href="url?id=1User219-219/User219-219">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=24&height=70&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20DERRICK-PRAISE%20%F0%9F%92%BB%20Tech_enthusiast%20.%20Developer%20." alt="👋 Hi, I'm DERRICK-PRAISE 💻 Tech_enthusiast . Developer ." />
   </a>
 </p>
 
@@ -56,4 +56,4 @@ Technology enthusiast, computer science student, currently debugging life with n
 <div align="right"><b><span style="color:#2f81f7"><i>DERRICK_PRAISE</i></span></b></div>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/User219-219">User219-219</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/User219-219/User219-219">User219-219</a></i></p>
