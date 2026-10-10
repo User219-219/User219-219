@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=0,4,20,30,35&height=220&section=header&text=HI,%20I'M%20USER219-219&fontSize=50&fontColor=00f2fe&fontAlignY=38&desc=COMPUTER%20SCIENCE%20@%20ZETECH%20UNIVERSITY&descSize=20&descColor=4facfe&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=0,4,20,30,35&height=200&section=header&text=HI,%20I'M%20USER219-219&fontSize=46&fontColor=00f2fe&fontAlignY=38&desc=COMPUTER%20SCIENCE%20@%20ZETECH%20UNIVERSITY&descSize=18&descColor=4facfe&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -12,8 +12,9 @@
 ### ⚡ **CYBERNETIC PROFILE OVERVIEW**
 <div align="center">
   
-> *“Passionate developer crafting low-level digital solutions, algorithms, and systems architecture.”*
-  
+> *“Passionate developer crafting low-level digital solutions, algorithms, and systems architecture.”*  
+> **Student at Zetech University taking Computer Science.**
+
 </div>
 
 ---
