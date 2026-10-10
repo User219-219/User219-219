@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/User219-219">
+  <a href="url?id=2">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20User219-219%20%F0%9F%92%BB%20Computer%20Science%20Student%20%7C%20C%20Programmer%20%7C%20Future%20Software%20Engineer%20%F0%9F%9A%80%20Building%2C%20learning%20%26%20documenting%20my%20journey%20one%20project%20at%20a%20time." alt="👋 Hi, I&#39;m User219-219 💻 Computer Science Student | C Programmer | Future Software Engineer 🚀 Building, learning &amp; documenting my journey one project at a time." />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E3B341&center=true&vCenter=true&width=700&height=44&lines=Computer%20Science%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator;Learning.%20Building.%20Becoming.%20%F0%9F%9A%80" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E3B341&center=true&vCenter=true&width=750&height=44&lines=Ctrl%2BC%20my%20curiosity%2C%20Ctrl%2BV%20my%20enthusiasm.;Still%20waiting%20for%20tech%20to%20catch%20up%20to%20my%20ideas%20%F0%9F%9A%80" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
