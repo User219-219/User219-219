@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="258" viewBox="0 0 176 258" role="img" aria-labelledby="t d">
+<title id="t">Flappy Bird</title>
+<desc id="d">A bird flapping through moving green pipes.</desc>
+<style>
+.pp{animation:pp 4s linear infinite}
+@keyframes pp{to{transform:translateX(-170px)}}
+.bd{animation:bd 4s ease-in-out infinite}
+@keyframes bd{0%,40%{transform:translateY(0)}55%,85%{transform:translateY(37px)}100%{transform:translateY(0)}}
+.a{font:600 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#e6edf3}
+.b{font:12px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#8b949e}
+.sc{font:12px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#e6edf3}
+@media (prefers-reduced-motion:reduce){.pp,.bd{animation:none}}
+</style>
+<defs><clipPath id="sk"><rect x="8" y="22" width="160" height="170" rx="4"/></clipPath></defs>
+<rect x=".5" y=".5" width="175" height="257" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="8" y="22" width="160" height="170" rx="4" fill="#12304a"/>
+<g clip-path="url(#sk)"><g class="pp" fill="#3fb950">
+<rect x="72" y="22" width="22" height="48"/><rect x="72" y="112" width="22" height="68"/>
+<rect x="157" y="22" width="22" height="86"/><rect x="157" y="148" width="22" height="32"/>
+<rect x="242" y="22" width="22" height="48"/><rect x="242" y="112" width="22" height="68"/>
+<rect x="327" y="22" width="22" height="86"/><rect x="327" y="148" width="22" height="32"/>
+</g></g>
+<rect x="8" y="180" width="160" height="12" fill="#3a5f2a"/>
+<g class="bd"><circle cx="42" cy="91" r="8" fill="#f2cc60"/><circle cx="45" cy="88" r="2" fill="#0d1117"/><polygon points="49,92 57,94 49,97" fill="#f0883e"/></g>
+<text class="sc" x="16" y="40">score 12</text>
+<text class="a" x="88" y="218" text-anchor="middle">flappy bird</text>
+<text class="b" x="88" y="238" text-anchor="middle">best 24</text>
+</svg>

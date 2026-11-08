@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="258" viewBox="0 0 176 258" role="img" aria-labelledby="t d">
+<title id="t">Tetris</title>
+<desc id="d">Tetris pieces falling onto a stack of coloured blocks.</desc>
+<style>
+.tt{animation:tt 5s steps(11) infinite}
+@keyframes tt{from{transform:translateY(0)}to{transform:translateY(132px)}}
+.a{font:600 13px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#e6edf3}
+.b{font:12px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#8b949e}
+@media (prefers-reduced-motion:reduce){.tt{animation:none}}
+</style>
+<rect x=".5" y=".5" width="175" height="257" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g transform="translate(4 0)">
+<rect x="23" y="23" width="122" height="170" fill="#0d1117" stroke="#30363d"/>
+<rect x="24" y="180" width="11" height="11" fill="#58a6ff"/><rect x="36" y="180" width="11" height="11" fill="#f78166"/><rect x="48" y="180" width="11" height="11" fill="#3fb950"/><rect x="60" y="180" width="11" height="11" fill="#f2cc60"/><rect x="72" y="180" width="11" height="11" fill="#a371f7"/><rect x="84" y="180" width="11" height="11" fill="#58a6ff"/><rect x="96" y="180" width="11" height="11" fill="#f78166"/><rect x="108" y="180" width="11" height="11" fill="#3fb950"/><rect x="120" y="180" width="11" height="11" fill="#f2cc60"/>
+<rect x="24" y="168" width="11" height="11" fill="#a371f7"/><rect x="36" y="168" width="11" height="11" fill="#58a6ff"/><rect x="48" y="168" width="11" height="11" fill="#f78166"/><rect x="84" y="168" width="11" height="11" fill="#f2cc60"/><rect x="96" y="168" width="11" height="11" fill="#3fb950"/><rect x="108" y="168" width="11" height="11" fill="#a371f7"/>
+<rect x="24" y="156" width="11" height="11" fill="#f2cc60"/><rect x="36" y="156" width="11" height="11" fill="#3fb950"/>
+<g class="tt" fill="#a371f7"><rect x="60" y="24" width="11" height="11"/><rect x="72" y="24" width="11" height="11"/><rect x="84" y="24" width="11" height="11"/><rect x="72" y="36" width="11" height="11"/></g>
+<g class="tt" fill="#f2cc60" style="animation-delay:-2.5s"><rect x="120" y="24" width="11" height="11"/><rect x="132" y="24" width="11" height="11"/><rect x="120" y="36" width="11" height="11"/><rect x="132" y="36" width="11" height="11"/></g>
+<text class="a" x="84" y="218" text-anchor="middle">tetris</text>
+<text class="b" x="84" y="238" text-anchor="middle">score 1240</text>
+</g>
+</svg>

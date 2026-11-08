@@ -1,7 +1,10 @@
 <p align="center">
-  <a href="https://github.com/User219-219/User219-219">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=24&height=70&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20User219-219%20%F0%9F%92%BB%20%3Cstrong%3E%3Cubic%3E%3C/cubic%3E%3Cu%3EComputer%20science%20student%2FDebugging%20my%20life%20choices%20shortly%20one%20keyboard%20shortcut%20after%20another.%3C%2Fu%3E%3C/strong%3E" alt="👋 Hi, I'm User219-219 💻 Computer science student/Debugging my life choices shortly one keyboard shortcut after another." />
-  </a>
+  <img src="assets/banner.svg" alt="Hi, I'm User219-219. Computer science student, debugging my life choices one keyboard shortcut after another." width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/ninja1.gif" width="49%" alt="Ninja lightning clash" />
+  <img src="assets/ninja2.gif" width="49%" alt="Ninja face-off" />
 </p>
 
 <p align="center">
@@ -45,6 +48,24 @@ Technology enthusiast, computer science student, currently debugging life with n
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=User219-219&bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/User219-219/User219-219/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/User219-219/User219-219/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/User219-219/User219-219/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+### 🎮 Take a Break
+
+<p align="center">
+  <img src="assets/tetris.svg" width="45%" alt="Tetris animation" />
+  &nbsp;&nbsp;
+  <img src="assets/flappy.svg" width="45%" alt="Flappy Bird animation" />
 </p>
 
 ### 💭 Thoughts
